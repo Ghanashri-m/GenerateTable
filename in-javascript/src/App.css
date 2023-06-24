@@ -1,0 +1,28 @@
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  font-size: 12px;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+}
+
+input {
+  margin-left: 8px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td {
+  border: 1px solid black;
+  text-align: center;
+  padding: 8px;
+}
